@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<tree id="0">
+	<!--<item id="todos" text="Todos" im0="tombs_mag.gif" im1="tombs_mag.gif" im2="tombs_mag.gif"/>-->
+	<item id="raiz" text="Tipos de Productos" im0="folderClosed.gif" im1="folderOpen.gif" im2="folderClosed.gif">
+	</item>
+</tree>
